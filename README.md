@@ -12,6 +12,9 @@ Rational Rose Software and to implement the software in Java.
 
 # Use case Diagrams
 REG NO: 212223220101
+
+NAME: SARANYA S.
+
 A use case is a methodology used in system analysis to identify, clarify, and 
 organize system requirements. The use case is made up of a set of possible sequences 
 of interactions between systems and users in a particular environment and related to a 
